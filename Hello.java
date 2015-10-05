@@ -7,6 +7,6 @@ System.out.println("Group members: Udaya,Keerthika, Weijian , Mohammed");
 System.out.println("This is SE lab3 java program");
 System.out.println("the edited version is this by Udaya ");
 System.out.println("the edited version is this by Keerthika ");
-
+System.out.println("This edited version is by Mohammed")
 }
 }
